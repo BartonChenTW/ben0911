@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ben0911
 - 👀 I’m interested in energy system analysis
-- 🌱 I’m currently a researcher in energy system modelling
+- 🌱 I’m currently a researcher in energy system modelling, at the University of Exeter
 - 💞️ I’m looking to collaborate on open energy system model
 - 📫 How to reach me: send me a message?
 
